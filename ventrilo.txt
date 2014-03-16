@@ -1,0 +1,14 @@
+
+kommando för att se kommandot som startade processen.
+ps -Af
+
+*.ini    *stjärnan ska vara port nr.
+*.usr
+
+ändra port i *.ini filen
+
+kommandot startar server.
+./ventrilo_srv -f/var/ventrilo21/* -d
+stjärna ska vara port.
+
+

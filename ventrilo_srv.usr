@@ -1,0 +1,8 @@
+# Example formating. Replace the LogonName with a unique name
+# and password for each authorized user.
+#
+# [LogonName]
+# UserPassword=password
+# ServerAdmin=0
+#
+#
